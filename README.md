@@ -6,4 +6,4 @@ A simplistic portfolio for Developers.
 
 ##### Sample Portfolio
 
-![My Portfolio](minimal-portfolio.png)
+![My Portfolio](my-portfolio.png)
